@@ -25,3 +25,8 @@
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/80ef0190-5821-4285-9514-a805493f01ae" />
 
+Étape 6 — Préparer la cible Android (choisir 1 option)
+
+<img width="1720" height="872" alt="image" src="https://github.com/user-attachments/assets/c83cfaa7-6880-427b-b384-37b7e99833d1" />
+
+
